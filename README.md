@@ -1,3 +1,5 @@
+# Cython vs Python - Performance tests
+
 Python is one of the most used computational tools in the scientific area, due to two factors. Python has a readable structure that allows for a fast development cycle. On the other hand, Python has the ability to use modules in low level environments such as C/C++ and Fortran for accessing internal components.
 
 Since python is an interpreted language, low-level tasks tend to be slow, so resources such as low-level loops are unfeasible. This is why NumPy can help on eliminating the need to use such loops. However, sometimes there are speedups that can't be easily obtained with just Numpy, so using tools like Cython can be of great help
