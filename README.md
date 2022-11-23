@@ -1,6 +1,6 @@
 # NN
 
-![Alt Text](https://gfycat.com/ifr/UnitedSpectacularAmazonparrot)
+![Alt Text](https://github.com/AndresTY/randomTemp/blob/main/NN.gif?raw=true )
 
 # PRIMES
 
