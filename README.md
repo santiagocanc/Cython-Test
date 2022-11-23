@@ -8,4 +8,4 @@
 
 # POW
 
-![Alt Text](https://github.com/AndresTY/randomTemp/blob/main/POW.gif?raw=true)
+![Alt Text](https://github.com/santiagocanc/Cython-Test/blob/main/POW.gif?raw=true)
